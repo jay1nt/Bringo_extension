@@ -1,0 +1,12 @@
+{
+    "name": "Bringo 😎",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "mr_incredible.png"
+    },
+    "icons": {
+        "128": "mr_incredible.png"
+    }
+}
